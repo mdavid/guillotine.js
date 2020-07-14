@@ -54,7 +54,7 @@
 	"dependencies": {
 		"express": "~3.4.0",
 		"path": "~0.4.9",
-		"mongoose": "~3.5.7",
+		"mongoose": "~5.9.24",
 		"redis": "https://github.com/mranney/node_redis.git#master",
 		"hiredis": "https://github.com/redis/hiredis.git#master",
 		"bignumber": "https://github.com/MikeMcl/bignumber.js.git#master",
